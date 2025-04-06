@@ -1,6 +1,6 @@
 'use client'
-import { Button } from '../../components/ui/button'
-import { Card } from '@/components/ui/card'
+import { Button } from '../components/ui/button'
+import { Card } from '../components/ui/card'
 import Link from 'next/link'
 import Image from 'next/image'
 
